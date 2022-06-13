@@ -1,0 +1,1030 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 14 May 2021 20:40:59 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.2.27-5+0~20200202.35+debian10~1.gbp2925f8, pimcore
+Cache-Control: max-age=0, must-revalidate, private
+Content-Language: cs
+Expires: Fri, 14 May 2021 20:40:59 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=315360000
+
+1e7a
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html lang="cs" class="no-js ie ie7"> <![endif]-->
+<!--[if lt IE 9 ]><html lang="cs" class="no-js ie ie8"> <![endif]-->
+<!--[if lt IE 10 ]><html lang="cs" class="no-js ie ie9"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html lang="cs"> <!--<![endif]-->
+	<head>
+
+		<!-- META -->
+		<title>O fakultě - FIT ČVUT</title><meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="author" content="portadesign.cz" />
+<meta name="description" content="Čistá informatika bez zbytečných vycpávek, přátelská atmosféra, teoretická výuka bohatě vyvážená praxí, otevřenost a vysoká flexibilita jsou naše hlavní charakteristiky. Jsme důslední při výuce, ambiciózní ve výzkumech a vstřícní ke spolupráci." />
+
+		<!-- CSS -->
+		<link href="/cache-buster-1598467722/static/css/styles.min.css" media="screen" rel="stylesheet" type="text/css" />
+		<link rel="shortcut icon" type="image/png" href="/favicon.png" />
+
+	
+<script>
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+            ga('create', 'UA-16686014-1');
+    
+    ga('set', 'anonymizeIp', true);
+    
+    
+        if (typeof _gaqPageView != "undefined"){
+        ga('send', 'pageview', _gaqPageView);
+    } else {
+                ga('send', 'pageview');
+            }
+    
+        </script>
+</head>
+	<body>
+		<div id="flash-messages">
+			<div class="container">
+	</div>
+		</div>
+
+		
+
+<div class="notification sh-content" id="notification-2db3bcae97aa17046bea420308241eea">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-12">
+									<p class="message">Aktuální informace FIT ke koronaviru najdete <a href="/koronavirus">zde</a>.</p>
+					<a href="javascript:void(0);" class="close notification-set-cookie">
+						<svg class="icon icon-close">
+							<use xlink:href="/static/svg/svg-sprite.svg#icon-close"/>
+						</svg>
+					</a>
+							</div>
+		</div>
+	</div>
+</div>
+
+		
+
+<header class="header">
+	<a href="/cs" title="FIT ČVUT" target="_self">
+		<img src="/static/images/fit-cvut-logo.svg" class="logo" alt="FIT ČVUT">
+	</a>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-12">
+				<nav class="main-nav" role="navigation">
+					<ul>
+																					
+								<li class="">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="Uchazeči" target="_self" class="dropdown-trig" data-dropdown="uchazeci-dropdown" role="button" aria-haspopup="true">
+										<span>Uchazeči</span>
+									</a>
+
+									<div class="dropdown" id="uchazeci-dropdown">
+										<!-- Dropdown head -->
+																																	<a href="/cs/uchazeci" title="Uchazeči" target="_self" class="dropdown-head">Uchazeči<svg class="icon icon-arrow-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right"/></svg></a>
+																					
+																					<!-- Columns in dropdown -->
+											<div class="dropdown-cols">
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="uchazeci-dropdown-0">
+																Programy a specializace<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="uchazeci-dropdown-0">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/programy-a-obory/bakalarske-studium" title="Bakalářské studium" target="_self">
+																		Bakalářské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/programy-a-obory/magisterske-studium" title="Magisterské studium" target="_self">
+																		Magisterské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/programy-a-obory/doktorske-studium" title="Doktorské studium" target="_self">
+																		Doktorské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/programy-a-obory/celozivotni-vzdelavani" title="Celoživotní vzdělávání" target="_self">
+																		Celoživotní vzdělávání																																			</a>
+																</li>
+																													</ul>
+													</div>
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="uchazeci-dropdown-1">
+																Pojďte na FIT﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="uchazeci-dropdown-1">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/pojdte-na-fit/10.5-duvodu-proc-jit-na-fit" title="10,5 důvodu, proč jít na FIT" target="_self">
+																		10,5 důvodu, proč jít na FIT																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/pojdte-na-fit/akce-pro-zajemce-a-prvaky" title="Akce pro zájemce" target="_self">
+																		Akce pro zájemce																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/pojdte-na-fit/pribehy-studentu" title="Příběhy studentů" target="_self">
+																		Příběhy studentů																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/pojdte-na-fit/pripravne-kurzy" title="Přípravné kurzy" target="_self">
+																		Přípravné kurzy																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/uchazeci/pojdte-na-fit/studium-s-handicapem" title="Studium s handicapem" target="_self">
+																		Studium s handicapem																																			</a>
+																</li>
+																													</ul>
+													</div>
+												
+												<!-- Life at faculty dropdown - social nets -->
+																																																				<div class="dropdown-col dropdown-col-bg">
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="uchazeci-dropdown-box-0">
+	Přijímací řízení﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+</p>
+<div class="subdrop
+cd0
+down" id="uchazeci-dropdown-box-0">
+			<p>
+			Důležité termíny, podmínky přijetí, postupy a návody.		</p>
+	
+		<a href="/cs/uchazeci/prijimaci-rizeni" class="btn btn-simple">Přijímací řízení</a><a href="https://prihlaska.cvut.cz/apps/kos/prihlaska/" class="btn btn-simple btn-icon" target="_blank">Podat přihlášku <svg class="icon icon-external"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>	</div>														</div>
+																																				</div>
+																			</div>
+								</li>
+																												
+								<li class="">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="Studium" target="_self" class="dropdown-trig" data-dropdown="studium-dropdown" role="button" aria-haspopup="true">
+										<span>Studium</span>
+									</a>
+
+									<div class="dropdown" id="studium-dropdown">
+										<!-- Dropdown head -->
+																																	<a href="/cs/studium" title="Studium" target="_self" class="dropdown-head">Studium<svg class="icon icon-arrow-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right"/></svg></a>
+																					
+																					<!-- Columns in dropdown -->
+											<div class="dropdown-cols">
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="studium-dropdown-0">
+																Programy a specializace<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="studium-dropdown-0">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/programy-a-obory/bakalarske" title="Bakalářské studium" target="_self">
+																		Bakalářské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/programy-a-obory/magisterske" title="Magisterské studium" target="_self">
+																		Magisterské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/programy-a-obory/doktorske" title="Doktorské studium" target="_self">
+																		Doktorské studium																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/programy-a-obory/kombinovane-studium" title="Kombinované studium" target="_self">
+																		Kombinované studium																																			</a>
+																</li>
+																													</ul>
+													</div>
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dro
+1ff8
+pdown="studium-dropdown-1">
+																Informační servis<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="studium-dropdown-1">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/informacni-servis/harmonogram" title="Harmonogram" target="_self">
+																		Harmonogram																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/informacni-servis/rozcestnik-systemu" title="Rozcestník systémů" target="_self">
+																		Rozcestník systémů																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/informacni-servis/studijni-oddeleni" title="Studijní oddělení" target="_self">
+																		Studijní oddělení																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/studium/informacni-servis/studijni-pobyty" title="Studijní pobyty" target="_self">
+																		Studijní pobyty																																			</a>
+																</li>
+																													</ul>
+													</div>
+												
+												<!-- Life at faculty dropdown - social nets -->
+																																																				<div class="dropdown-col dropdown-col-bg">
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="studium-dropdown-box-0">
+	Poradna pro studenty﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+</p>
+<div class="subdropdown" id="studium-dropdown-box-0">
+			<p>
+			Nestůjte s vaší otázkou frontu na studijním.		</p>
+	
+		<a href="/cs/studium/pruvodce-studiem" class="btn btn-simple">Průvodce studiem</a>	</div>														</div>
+																																				</div>
+																			</div>
+								</li>
+																												
+								<li class="">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="Věda a výzkum" target="_self" class="dropdown-trig" data-dropdown="veda-a-vyzkum-dropdown" role="button" aria-haspopup="true">
+										<span>Věda a výzkum</span>
+									</a>
+
+									<div class="dropdown" id="veda-a-vyzkum-dropdown">
+										<!-- Dropdown head -->
+																																	<a href="/cs/veda-a-vyzkum" title="Věda a výzkum" target="_self" class="dropdown-head">Věda a výzkum<svg class="icon icon-arrow-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right"/></svg></a>
+																					
+																					<!-- Columns in dropdown -->
+											<div class="dropdown-cols">
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="veda-a-vyzkum-dropdown-0">
+																Čemu se věnujeme<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="veda-a-vyzkum-dropdown-0">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/temata-vyzkumu" title="Témata výzkumu" target="_self">
+																		Témata výzkumu																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/success-stories" title="Success stories" target="_self">
+																		Success stories																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/projekty" title="Projekty" target="_self">
+																		Projekty																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/publikace" title="Publikace" target="_self">
+																		Publikace																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/patenty" title="Patenty" target="_self">
+																		Patenty																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/cemu-se-venujeme/konference" title="Konference" target="_self">
+																		Konference																																			</a>
+																</li>
+																													</ul>
+													</div>
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="veda-a-vyzkum-dropdown-1">
+																Zázemí<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="veda-a-vyzkum-dropdown-1">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/zazemi/laboratore" title="Laboratoře" target="_self">
+																		Laboratoře																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/zazemi/vyzkumne-skupiny" title="Výzkumné skupiny" target="_self">
+																		Výzkumné skupiny																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/zazemi/habilitacni-a-jmenovaci-rizeni" title="Habilitační a jmenovací řízení" target="_self">
+																		Habilitační a jmenovací řízení																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/veda-a-vyzkum/zazemi/vedecka-rada" title="Vědecká rada" target="_self">
+																		Vědecká rada																																			</a>
+																</li>
+																													</ul>
+													</div>
+												
+												<!-- Life at faculty dropdown - social nets -->
+																																																				<div class="dropdown-col dropdown-col-bg">
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="veda-a-vyzkum-dropdown-box-0">
+	Pro instituce a firmy﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+</p>
+<div class="subdropdown" id="veda-a-vyzkum-dropdown-box-0">
+	
+		<a href="/cs/veda-a-vyzkum/proc-delat-vyzkum-s-nami" class="btn btn-simple">Proč dělat výzkum s námi?</a>	</div><p class="dropdown-col-head subdropdown-trig" data-dropdown="veda-a-vyzkum-dropdown-box-1">
+	Pro zaměstnance a studenty﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-a
+1888
+rrow-right-bottom"/></svg></span>
+</p>
+<div class="subdropdown" id="veda-a-vyzkum-dropdown-box-1">
+	
+		<a href="/cs/veda-a-vyzkum/zapojte-se-do-vyzkumu" class="btn btn-simple">Zapojte se do výzkumu</a>	</div>														</div>
+																																				</div>
+																			</div>
+								</li>
+																												
+								<li class="">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="Spolupráce" target="_self" class="dropdown-trig" data-dropdown="spoluprace-dropdown" role="button" aria-haspopup="true">
+										<span>Spolupráce</span>
+									</a>
+
+									<div class="dropdown" id="spoluprace-dropdown">
+										<!-- Dropdown head -->
+																																	<a href="/cs/spoluprace" title="Spolupráce" target="_self" class="dropdown-head">Spolupráce<svg class="icon icon-arrow-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right"/></svg></a>
+																					
+																					<!-- Columns in dropdown -->
+											<div class="dropdown-cols">
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="spoluprace-dropdown-0">
+																Pro studenty<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="spoluprace-dropdown-0">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-studenty/praxe-pro-studenty" title="Praxe pro studenty" target="_self">
+																		Praxe pro studenty																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-studenty/nabidky-prace" title="Nabídky práce" target="_self">
+																		Nabídky práce																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-studenty/veletrh-cofit" title="Kariérní veletrh COFIT" target="_self">
+																		Kariérní veletrh COFIT																																			</a>
+																</li>
+																													</ul>
+													</div>
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="spoluprace-dropdown-1">
+																Pro průmysl<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="spoluprace-dropdown-1">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-prumysl/moznosti-pro-firmy" title="Možnosti pro firmy" target="_self">
+																		Možnosti pro firmy																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-prumysl/proc-spolupracovat-s-fit" title="Proč spolupracovat s FIT" target="_self">
+																		Proč spolupracovat s FIT																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-prumysl/uspesne-projekty" title="Úspěšné projekty" target="_self">
+																		Úspěšné projekty																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/spoluprace/pro-prumysl/jak-se-stat-partnerem-nebo-sponzorem" title="Jak se stát partnerem nebo sponzorem" target="_self">
+																		Jak se stát partnerem nebo sponzorem																																			</a>
+																</li>
+																													</ul>
+													</div>
+												
+												<!-- Life at faculty dropdown - social nets -->
+																																																				<div class="dropdown-col dropdown-col-bg">
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="spoluprace-dropdown-box-0">
+	Portál Spolupráce s průmyslem<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+</p>
+<div class="subdropdown" id="spoluprace-dropdown-box-0">
+	
+		<a href="https://is.fit.cvut.cz/group/ssp" class="btn btn-simple btn-icon" target="_blank">Portál SSP <svg class="icon icon-external"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>	</div><p class="dropdown-col-head subdropdown-trig" data-dropdown="spoluprace-dropdown-box-1">
+	Naši partneři﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+</p>
+<div class="subdropdown" id="spoluprace-dropdown-box-1">
+	
+		<a href="/cs/spoluprace/partneri-a-sponzori" class="btn btn-simple">Partneři a sponzoři</a>	</div>														</div>
+																																				</div>
+																			</div>
+								</li>
+																												
+								<li class="active dropdown-narrow-wrap">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="O fakultě" target="_self" class="dropdown-trig" data-dropdown="fakulta-dropdown" role="button" aria-haspopup="true">
+										<span>O fakultě</span>
+									</a>
+
+									<div class="dropdown dropdown-narrow" id="fakulta-dropdown">
+										<!-- Dropdown head -->
+										
+																					<!-- Simple dropdown without columns -->
+											<div class="dropdown-cols">
+												<div class="dropd
+1ff8
+own-col">
+													<ul class="dropdown-nav">
+																																												<li>
+																<a href="/cs/fakulta/o-fakulte" title="O fakultě" target="_self">
+																	O fakultě																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/lide" title="Lidé" target="_self">
+																	Lidé																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/organizacni-struktura" title="Organizační struktura" target="_self">
+																	Organizační struktura																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/informacni-deska" title="Informační deska" target="_self">
+																	Informační deska																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/pro-zamestnance" title="Pro zaměstnance" target="_self">
+																	Pro zaměstnance																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/akademicky-senat" title="Akademický senát" target="_self">
+																	Akademický senát																																	</a>
+															</li>
+																																												<li>
+																<a href="/cs/fakulta/kontakty" title="Kontakty" target="_self">
+																	Kontakty																																	</a>
+															</li>
+																											</ul>
+												</div>
+											</div>
+
+																			</div>
+								</li>
+																												
+								<li class="">
+																		<!-- Main navigation item -->
+									<a href="javascript:void(0);" title="Život na FIT" target="_self" class="dropdown-trig" data-dropdown="zivot-na-fit-dropdown" role="button" aria-haspopup="true">
+										<span>Život na FIT</span>
+									</a>
+
+									<div class="dropdown" id="zivot-na-fit-dropdown">
+										<!-- Dropdown head -->
+																																	<a href="/cs/zivot-na-fit" title="Život na FIT" target="_self" class="dropdown-head">Život na FIT<svg class="icon icon-arrow-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right"/></svg></a>
+																					
+																					<!-- Columns in dropdown -->
+											<div class="dropdown-cols">
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="zivot-na-fit-dropdown-0">
+																Aktuálně<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="zivot-na-fit-dropdown-0">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/aktualne/zpravy" title="Zprávy" target="_self">
+																		Zprávy																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/aktualne/udalosti" title="Události" target="_self">
+																		Události																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/aktualne/pravidelne-akce" title="Pravidelné akce" target="_self">
+																		Pravidelné akce																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/aktualne/success-stories" title="Success stories" target="_self">
+																		Success stories																																			</a>
+																</li>
+																													</ul>
+													</div>
+																																						<div class="dropdown-col">
+																													<!-- Dropdown column head -->
+															<p class="dropdown-col-head subdropdown-trig" data-dropdown="zivot-na-fit-dropdown-1">
+																Studentský život<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+															</p>
+																												<ul class="dropdown-nav subdropdown" id="zivot-na-fit-dropdown-1">
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/studentsky-zivot/casopis-bud-fit" title="Časopis Buď FIT" target="_blank">
+																		Časopis Buď FIT																																					<svg class="icon icon-external"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg>
+																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/studentsky-zivot/studentsky-klub-fit-" title="Studentský klub FIT ++" target="_blank">
+																		Studentský klub FIT ++																																					<svg class="icon icon-external"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg>
+																																			</a>
+																</li>
+																																															<!-- Dropdown column items -->
+																<li>
+																	<a href="/cs/zivot-na-fit/studentsky-zivot/studentska-unie-cvut" title="Studentská unie ČVUT" target="_blank">
+																		Studentská unie ČVUT																																					<svg class="icon icon-external"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg>
+																																			</a>
+																</li>
+																													</ul>
+													</div>
+												
+												<!-- Life at faculty dropdown - social nets -->
+																									<div class="dropdown-col">
+														<p class="dropdown-col-head subdropdown-trig" data-dropdown="socialnetshead-0">
+															Jsme společenští﻿<span>&#65279;<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom"/></svg></span>
+														</p>
+														<ul class="dropdown-soc-nets">
+																															<li>
+																																			<a href="https://www.facebook.com/fitcvut/" title="Facebook" target="_blank">
+																			<svg class="icon icon-facebook">
+																				<use xlink:href="/static/svg/svg-sprite.svg#icon-facebook" />
+																			</svg>
+																		</a>
+																																	</li>
+																																														<li>
+																																			<a href="https://www.instagram.com/fit_ctu/" title="Instagram" target="_blank">
+																			<svg class="icon icon-instagram">
+																				<use xlink:href="/static/svg/svg-sprite.svg#icon-instagram" />
+																			</svg>
+																		</a>
+																																	</li>
+																																														<li>
+																																			<a href="https://www.youtube.com/FITCTU" title="Youtube" target="_blank">
+																			<svg class="icon icon-youtube">
+																				<use xlink:href="/static/svg/svg-sprite.svg#icon-youtube" />
+																			</svg>
+																		</a>
+																																	</li>
+																																														<li>
+																																			<a href="https://twitter.com/FIT_CTU" title="Twitter" target="_blank">
+																			<svg class="icon icon-twitter">
+																				<use xlink:href="/static/svg/svg-sprite.svg#icon-twitter" />
+																			</svg>
+																		</a>
+																				
+1ff8
+													</li>
+																													</ul>
+													</div>
+
+												<!-- Dropdown box -->
+																							</div>
+																			</div>
+								</li>
+																			<li class="lng-switch-mobile">
+							<a class="lng-mobile active" href="/cs" title="CZ" target="_self">CZ</a>							<a class="lng-mobile" href="https://old.fit.cvut.cz/en" title="EN" target="_self">EN</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<ul class="header-btns">
+		<li class="search-wrap">
+			<a href="/cs/fakulta/kontakty" role="button" title="Kontakty" target="_self" class="contact-btn">
+				<svg class="icon icon-contact" role="img" aria-label="Kontakty">
+					<use xlink:href="/static/svg/svg-sprite.svg#icon-contact"/>
+				</svg>
+			</a>
+		</li>
+		<li class="search-wrap">
+			<a href="javascript:void(0);" role="button" title="Vyhledat" aria-haspopup="true" target="_self" class="search-trigger dropdown-trig" data-dropdown="vyhledavani-dropdown">
+				<svg class="icon icon-search" role="img" aria-label="Vyhledat">
+					<use xlink:href="/static/svg/svg-sprite.svg#icon-search"/>
+				</svg>
+			</a>
+			<div class="dropdown dropdown-search" id="vyhledavani-dropdown">
+				
+<form name="search_form" method="get" class="form-search" novalidate="1" action="//fit.cvut.cz/cs/vysledky-vyhledavani">
+	<input type="hidden" id="search_form_page" name="search_form[page]" value="1" />
+	<input type="search" id="search_form_query" name="search_form[query]" required="required" class="form-search-input text typeahead" placeholder="Hledaný výraz" />	<button type="submit" id="search_form_search" name="search_form[search]" class="btn btn-fill-search">Vyhledej</button>
+</form>
+			</div>
+		</li>
+		<li class="lng-switch-wrap">
+			<a href="javascript:void(0);" role="button" aria-haspopup="true" title="CZ" target="_self" class="lng-switch dropdown-trig" data-dropdown="jazyk-dropdown">
+				CZ			</a>
+			<div class="dropdown dropdown-lng" id="jazyk-dropdown">
+				<ul class="dropdown-nav">
+					<li><a class="lng" href="/cs" title="CZ" target="_self">CZ</a></li>					<li><a class="lng" href="https://old.fit.cvut.cz/en" title="EN" target="_self">EN</a></li>
+				</ul>
+			</div>
+		</li>
+		<li>
+			<a href="javascript:void(0);" class="menu-trigger" title="Menu" target="_self">
+				<svg class="icon icon-menu">
+					<use xlink:href="/static/svg/svg-sprite.svg#icon-menu"/>
+				</svg>
+				<svg class="icon icon-close">
+					<use xlink:href="/static/svg/svg-sprite.svg#icon-close"/>
+				</svg>
+			</a>
+		</li>
+	</ul>
+</header>
+
+
+		
+<main class="content">
+		<section class="block teaser teaser-breadcrumbs   teaser-bg teaser-omega">
+		<!-- Breadcrumb navigation -->
+		<div class="breadcrumbs">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-12">
+				<ul>
+																		<li><a href="/cs" title="Úvod" target="_self">Úvod</a></li>
+																								<li><a href="/cs/fakulta" title="O fakultě" target="_self">O fakultě</a></li>
+																								<li>O fakultě</li>
+															</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<!-- Background image -->
+					<div class="teaser-bg-img">
+				<img width="2000" height="1000" alt="" title="" src="/fakulta/budovy/image-thumb__632__TeaserBackgroundImage/fakulta-header.jpeg" srcset="/fakulta/budovy/image-thumb__632__TeaserBackgroundImage/fakulta-header.jpeg 1x, /fakulta/budovy/image-thumb__632__TeaserBackgroundImage/fakulta-header@2x.jpeg 2x" />			</div>
+		
+		<div class="container">
+
+			<!-- Teaser content / head + perex -->
+			<div class="row">
+				<div class="col-lg-8">
+
+					<!-- For subsites with subnavigation -->
+											<!-- Child pages / pages with blue overlay -->
+													<div class="teaser-bg-head">
+								<!-- Head 1 -->
+									<h1>O fakultě</h1>
+
+								<!-- Subhead -->
+															</div>
+						
+					<!-- For simple pages without subnavigation -->
+									</div>
+			</div>
+
+			<!-- Subnavigation -->
+					<div class="row">
+		<div class="col-12">
+			<div class="subsite-nav m-t-2-5">
+				<ul>
+																	<li>
+															<span class="subsite-nav-item subsite-nav-current subsite-nav-parent">O fakultě</span>
+													</li>
+																						<li>
+																								<a class="subsite-nav-item" href="/cs/fakulta/o-fakulte/budovy-fakulty" title="Budovy fakulty">Budovy fakulty</a>
+																					</li>
+																	<li>
+																								<a class="subsite-nav-item" href="/cs/fakulta/o-fakulte/fit-v-case" title="FIT v čase">FIT v čase</a>
+																					</li>
+									</ul>
+			</div>
+		</div>
+	</div>
+
+			<!-- Table with details -->
+			
+		</div>
+	</section>
+			<section class="block block-alt block-last">
+			<div class="container article">
+									<div class="row">
+						<div class="col-12">
+							<div class="numbers item-list item-list-center">
+								<div class="item">
+									<a class="item-inner" href="/cs/uchazeci/programy-a-obory" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Vyučujeme</span>
+						<span class="item-number">17</span>
+			<span class="item-title">bakalářských a magisterských specializací</span>
+		</p>
+					</a>
+			</div><div class="item">
+									<a class="item-inner" href="/cs/studium" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Učíme přes</span>
+						<span class="item-number">2 300</span>
+			<span class="item-title">studentů</span>
+		</p>
+					</a>
+			</div><div class="item">
+									<a class="item-inner" href="/cs/veda-a-vyzkum/cemu-se-venujeme/projekty" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Řešíme</span>
+						<span class="item-number">67</span>
+			<span class="item-title">vědeckých projektů</span>
+		</p>
+					</a>
+			</div><div class="item">
+									<a class="item-inner" href="/cs/veda-a-vyzkum/zazemi/vyzkumne-skupiny" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Máme</span>
+						<span class="item-number">13</span>
+			<span class="item-title">výzkumných skupin</span>
+		</p>
+					</a>
+			</div><div class="item">
+									<a class="item-inner" href="/cs/veda-a-vyzkum/zazemi/laboratore" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Jsme domovem</span>
+						<span class="item-number">18</span>
+			<span class="item-title">laboratoří</span>
+		</p>
+					</a>
+			</div><div class="item">
+									<a class="item-inner" href="/cs/fakulta/organizacni-struktura/prehled#katedry" title="" target="_self">
+				<p class="item-text">
+							<span class="item-suptext">Skládáme se ze</span>
+						<span class="item-number">6</span>
+			<span class="item-title">kateder</span>
+		</p>
+					</a>
+			</div>							</div>
+						</div>
+					</div>
+							</div>
+		</section>
+		<section class="block block-last">
+		<div class="container article">
+							<div class="row">
+					<div class="col-lg-8 offset-lg-2">
+						<div class="perex entry">
+							<p>Čistá informatika bez zbytečných vycpávek, přátelská atmosféra, teoretická výuka bohatě vyvážená praxí, otevřenost a vysoká flexibilita jsou naše hlavní charakteristiky. Jsme důslední při výuce, ambiciózní ve výzkumech a vstřícní ke spolupráci.</p>
+						</div>
+					</div>
+				</div>
+							<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div class="entry">
+								<div class="video-iframe">
+<figure><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/8qRT-dPUNbQ"></iframe></figure>
+</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div class="entry m-b-1-5">
+					<h2>Na FIT učíme a pracujeme na výzkumných i komerčních projektech</h2>				<p>Proč trénovat algoritmy nanečisto a psát si kódy do šuplíku, když je možné podílet se na skutečných projektech? Studenti u nás proto mají možnost zapojit se do akademického výzkumu nebo řešit s komerční sférou reálné požadavky v oblasti, která je baví.</p>
+			</div>
+			<div class="links">
+		
+	<a href="/c
+254b
+s/studium" class="link" title="Studium" target="_self">
+		
+		Studium
+					<svg class="link-icon icon icon-chevron-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-chevron-right"></use></svg>
+			</a>
+	
+	<a href="/cs/veda-a-vyzkum" class="link" title="Věda a výzkum" target="_self">
+		
+		Věda a výzkum
+					<svg class="link-icon icon icon-chevron-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-chevron-right"></use></svg>
+			</a>
+	
+	<a href="/cs/spoluprace" class="link" title="Spolupráce" target="_self">
+		
+		Spolupráce
+					<svg class="link-icon icon icon-chevron-right"><use xlink:href="/static/svg/svg-sprite.svg#icon-chevron-right"></use></svg>
+			</a>
+</div>		</div>
+	</div>
+<div class="row">
+	<div class="col-12">
+		<div class="entry">
+					</div>
+		<div class="img-set img-set-2">
+			<figure>
+									<img width="595" height="360" alt="" title="" src="/tmp/image-thumb__26__Block2Image/bachelor-study-img1.jpeg" srcset="/tmp/image-thumb__26__Block2Image/bachelor-study-img1.jpeg 1x, /tmp/image-thumb__26__Block2Image/bachelor-study-img1@2x.jpeg 2x" />							</figure>
+			<figure>
+									<img width="595" height="360" alt="" title="" src="/tmp/image-thumb__24__Block2Image/bachelor-study-img3.jpeg" srcset="/tmp/image-thumb__24__Block2Image/bachelor-study-img3.jpeg 1x, /tmp/image-thumb__24__Block2Image/bachelor-study-img3@2x.jpeg 2x" />							</figure>
+		</div>
+	</div>
+</div>	<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div class="entry">
+					<h2>Fakulta jsme mladá, přesto vyzrálá</h2>				<p>První desetiletku jsme oslavili teprve nedávno. Za tu dobu se nám povedlo vyladit jednotlivé specializace&nbsp;na bakalářském, magisterském i doktorandském stupni do perfektní kondice. Naše specializace&nbsp;jsou zkrátka FIT ve všech směrech. Několikrát jsme o sobě dali vědět také v akademickém světě díky úspěchům na poli vědeckých výzkumů. Nespíme však na vavřínech. I v budoucnu budeme mířit stále dál a výš.</p>
+
+<p><a class="btn" href="/cs/fakulta/o-fakulte/fit-v-case">JAK ŠEL ČAS S FIT</a></p>
+			</div>
+		</div>
+	</div>
+
+<div class="row">
+			<div class="col-xl-8 col-lg-7">
+			<figure class="p-r-1 m-b-md-2">
+									<img width="803" height="536" alt="" title="" src="/tmp/image-thumb__2197__ThreeQuartersContainerImage/pratelska-atmosfera.jpeg" srcset="/tmp/image-thumb__2197__ThreeQuartersContainerImage/pratelska-atmosfera.jpeg 1x, /tmp/image-thumb__2197__ThreeQuartersContainerImage/pratelska-atmosfera@2x.jpeg 2x" />							</figure>
+		</div>
+		<div class="col-xl-4 col-lg-5">
+		<div class="entry">
+							<h2>Přátelská atmosféra je první řádek našeho kódu</h2>			<p>Přestože její přítomnost není nijak měřitelná nebo jinak vědecky demonstrovatelná, zaznamenáte ji u nás ve všech stupních vzdělávání a napříč všemi úrovněmi vedení.</p>
+					</div>
+	</div>
+</div>	<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div class="entry">
+					<h2>Přitahujeme osobnosti, pro které není IT jen otázkou peněz</h2>				<p>Jsme nadšená komunita, která přitahuje lidi s podobným zaměřením. Naším hnacím motorem jsou vědecké pokroky, úspěšní absolventi a hlavně všichni studenti, kteří u nás zapláli podobnou vášní pro informatiku.</p>
+			</div>
+		</div>
+	</div>
+
+<div class="row">
+	<div class="col-lg-10 offset-lg-1">
+		<div class="entry">
+					</div>
+		<figure>
+							<img width="1012" height="675" alt="" title="" src="/studenti/studijni-obory/image-thumb__256__Block1Image/bi-wsi-pg.jpeg" srcset="/studenti/studijni-obory/image-thumb__256__Block1Image/bi-wsi-pg.jpeg 1x, /studenti/studijni-obory/image-thumb__256__Block1Image/bi-wsi-pg@2x.jpeg 2x" />								</figure>
+	</div>
+</div>	<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div class="entry">
+					<h2>Budujeme špičková vědecká pracoviště</h2>				<p>Nadšení, ambice a nadání pro informatiku rozvíjíme také pomocí výzkumných skupin. Vytváříme takové prostředí, aby se v něm žádný skvělý nápad neztratil. Jsme vybaveni nejmodernější technikou a neutuchajícím zápalem pro vědu.&nbsp;</p>
+
+<p><a class="btn" href="/cs/veda-a-vyzkum">VĚDA A VÝZKUM</a></p>
+			</div>
+		</div>
+	</div>
+
+		</div>
+	</section>
+</main>
+
+
+		
+				
+		
+
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-sm-6">
+				<h3 class="footer-head">
+					Často hledáte					<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom" /></svg></h3>
+				<ul class="footer-nav">
+							<li>
+		<a href="/cs/studium/informacni-servis/harmonogram" title="Harmonogram" target="_self">Harmonogram</a>
+	</li>
+		<li>
+		<a href="/cs/studium/informacni-servis/studijni-oddeleni" title="Studijní oddělení" target="_self">Studijní oddělení</a>
+	</li>
+		<li>
+		<a href="/cs/studium/pruvodce-studiem" title="Průvodce studiem" target="_self">Průvodce studiem</a>
+	</li>
+		<li>
+		<a href="/cs/studium/informacni-servis/rozcestnik-systemu" title="Rozcestník systémů" target="_self">Rozcestník systémů</a>
+	</li>
+					<li>
+			<a href="https://www.kos.cvut.cz/" target="_blank">KOS <svg class="icon icon-external m-l-0-25"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>		</li>
+						<li>
+			<a href="https://courses.fit.cvut.cz/" target="_blank">Courses <svg class="icon icon-external m-l-0-25"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>		</li>
+					</ul>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<h3 class="footer-head">
+					Mapa stránek					<svg class="icon icon-arrow-right-bottom"><use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom" /></svg></h3>
+				<ul class="footer-nav">
+										<li>
+			<a href="/cs" >Úvod</a>		</li>
+			<li>
+		<a href="/cs/uchazeci" title="Uchazeči" target="_self">Uchazeči</a>
+	</li>
+		<li>
+		<a href="/cs/studium" title="Studium" target="_self">Studium</a>
+	</li>
+		<li>
+		<a href="/cs/veda-a-vyzkum" title="Věda a výzkum" target="_self">Věda a výzkum</a>
+	</li>
+		<li>
+		<a href="/cs/spoluprace" title="Spolupráce" target="_self">Spolupráce</a>
+	</li>
+		<li>
+		<a href="/cs/fakulta" title="O fakultě" target="_self">O fakultě</a>
+	</li>
+		<li>
+		<a href="/cs/zivot-na-fit" title="Život na FIT" target="_self">Život na FIT</a>
+	</li>
+				</ul>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<h3 class="footer-head">
+					Kontakt					<svg class="icon icon-arrow-right-bottom">
+						<use xlink:href="/static/svg/svg-sprite.svg#icon-arrow-right-bottom" />
+					</svg>
+				</h3>
+				<div class="footer-contact entry">
+					<p>Fakulta informačních technologií<br />
+Thákurova 9, 160 00 Praha 6<br />
+Česká republika</p>
+				</div>
+				<ul class="footer-btns">
+							<li>
+		<a href="/cs/fakulta/kontakty" title="Kontakty" target="_self" class="btn">Kontakty</a>
+	</li>
+		<li>
+		<a href="/cs/media-a-pr" title="Média a PR" target="_self" class="btn">Média a PR</a>
+	</li>
+				</ul>
+			</div>
+			<div class="col-lg-2 offset-lg-1 col-sm-6">
+				<ul class="footer-soc-nets footer-nav">
+											<li>
+							<a href="https://www.facebook.com/fitcvut/" title="Facebook" target="_blank">
+								<svg class="icon icon-facebook" role="img" aria-label="Facebook">
+									<use xlink:href="/static/svg/svg-sprite.svg#icon-facebook" />
+								</svg>
+								Facebook
+							</a>
+						</li>
+																<li>
+							<a href="https://www.instagram.com/fit_ctu/" title="Instagram" target="_blank">
+								<svg class="icon icon-instagram" role="img" aria-label="Instagram">
+									<use xlink:href="/static/svg/svg-sprite.svg#icon-instagram" />
+								</svg>
+								Instagram
+							</a>
+						</li>
+																<li>
+							<a href="https://www.youtube.com/user/FITCTU" title="Youtube" target="_blank">
+								<svg class="icon icon-youtube" role="img" aria-label="Youtube">
+									<use xlink:href="/static/svg/svg-sprite.svg#icon-youtube" />
+								</svg>
+								Youtube
+							</a>
+						</li>
+																<li>
+							<a href="https://twitter.com/FIT_CTU" title="Twitter" target="_blank">
+								<svg class="icon icon-twitter" role="img" aria-label="Twitter">
+									<use xlink:href="/static/svg/svg-sprite.svg#icon-twitter" />
+								</svg>
+								Twitter
+							</a>
+						</li>
+									</ul>
+				<ul class="footer-nav">
+										<li>
+			<a href="https://casopis.fit.cvut.cz/" target="_blank">Časopis Buď FIT! <svg class="icon icon-external m-l-0-25"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>		</li>
+						<li>
+			<a href="https://klubfitpp.cz/" target="_blank">Klub FIT++ <svg class="icon icon-external m-l-0-25"><use xlink:href="/static/svg/svg-sprite.svg#icon-external"/></svg></a>		</li>
+					</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12">
+				<div class="footer-sub">
+					Copyright					2021					FIT ČVUT					<p>| <a href="/prohlaseni-o-pristupnosti">Prohlášení o přístupnosti</a></p>
+					<a href="http://www.portadesign.cz" class="porta" target="_blank" title="Portadesign">
+						<svg class="icon icon-porta" role="img" aria-label="Porta"><use xlink:href="/static/svg/svg-sprite.svg#icon-porta" /></svg>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+		<!-- JS -->
+		<script src="/cache-buster-1598467722/static/js/scripts.min.js"></script>
+
+		<script>svg4everybody();</script>
+
+				<div class="loader-overlay"><div class="loader-box"><div class="loader"></div></div></div>
+	</body>
+</html>
+
+0
+
